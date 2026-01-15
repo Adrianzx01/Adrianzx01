@@ -1,6 +1,5 @@
 ## Opa! Eu sou o Adrian!
 
-- 🔭 Atualmente faço um curso de dev em dispositivos móveis.
 - 🌱 Estudando JavaScript, Python e Flutter. <img align="right" alt="Adrian" height="250" width="350" src="https://i.pinimg.com/originals/f3/d0/19/f3d019284cfaaf4d093941ecb0a3ea40.gif">
   
 ![Adrianzx01's Stats](https://github-readme-stats.vercel.app/api?username=Adrianzx01&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
