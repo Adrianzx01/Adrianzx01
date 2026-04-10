@@ -1,6 +1,6 @@
 ## Opa! Eu sou o Adrian!
 
-- 🌱 Estudando JavaScript, Python e Flutter. <img align="right" alt="Adrian" height="250" width="350" src="https://i.pinimg.com/originals/f3/d0/19/f3d019284cfaaf4d093941ecb0a3ea40.gif">
+- 🌱 Aprendendo Lua. <img align="right" alt="Adrian" height="250" width="350" src="https://i.pinimg.com/originals/f3/d0/19/f3d019284cfaaf4d093941ecb0a3ea40.gif">
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adrianzx01&theme=tokyonight&hide_border=true)
 
