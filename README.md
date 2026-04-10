@@ -4,7 +4,7 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adrianzx01&theme=tokyonight&hide_border=true)
 
-(Tech Stack)
+Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
