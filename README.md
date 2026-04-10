@@ -2,7 +2,7 @@
 
 - 🌱 Estudando JavaScript, Python e Flutter. <img align="right" alt="Adrian" height="250" width="350" src="https://i.pinimg.com/originals/f3/d0/19/f3d019284cfaaf4d093941ecb0a3ea40.gif">
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianzx01&layout=compact&theme=dark&hide_border=true&langs_count=6)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adrianzx01&theme=tokyonight&hide_border=true)
 
 
 <div>
