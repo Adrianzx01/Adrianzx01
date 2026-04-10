@@ -1,10 +1,6 @@
 ## Opa! Eu sou o Adrian!
 
 - 🌱 Estudando JavaScript, Python e Flutter. <img align="right" alt="Adrian" height="250" width="350" src="https://i.pinimg.com/originals/f3/d0/19/f3d019284cfaaf4d093941ecb0a3ea40.gif">
-  
-![Adrianzx01's Stats](https://github-readme-stats.vercel.app/api?username=Adrianzx01&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-
-![Adrianzx01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianzx01&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
 <div>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
