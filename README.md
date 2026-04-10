@@ -4,6 +4,8 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adrianzx01&theme=tokyonight&hide_border=true)
 
+![Pipeline de Qualidade](https://github.com/Adrianzx01/gastos-pessoais-cli/actions/workflows/ci.yml/badge.svg)
+
 Tech Stack
 
 <p align="left">
