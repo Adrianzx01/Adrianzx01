@@ -2,7 +2,6 @@
 <div align="center">
   <img align="center" height="10000" src="https://media1.tenor.com/m/Y0-S6VnzDHIAAAAC/joker-persona-5.gif" />
 </div>
-
 <div align="center">
   
   <b>`ye`</b>
@@ -27,9 +26,10 @@
 <br>
       
 <div align="center">
-  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=adrianzx01&rank_icon=github&show_icons=true&theme=dark&count_private=true">
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=adrianzx01&layout=compact&theme=dark&count_private=true">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adrianzx01&theme=dark"/>
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=adrianzx01&rank_icon=github&show_icons=true&theme=gotham&count_private=true">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=adrianzx01&layout=compact&theme=gotham&count_private=true">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adrianzx01&theme=gotham"/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Adrianzx01&theme=gotham"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
