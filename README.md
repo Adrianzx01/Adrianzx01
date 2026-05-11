@@ -30,6 +30,7 @@
   <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=adrianzx01&layout=compact&theme=gotham&count_private=true">
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adrianzx01&theme=gotham"/>
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Adrianzx01&theme=gotham"/>
+  <img height="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=Adrianzx01&theme=gotham" />
 </div>
 
 <div align="center" style="display: inline_block"><br>
