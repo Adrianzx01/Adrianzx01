@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=ff0000&customColorList=33&section=header"/>
 <div align="center">
-  <img align="center" height="400" src="https://media1.tenor.com/m/Y0-S6VnzDHIAAAAC/joker-persona-5.gif" />
+  <img align="center" height="500" src="https://media1.tenor.com/m/Y0-S6VnzDHIAAAAC/joker-persona-5.gif" />
 </div>
 <div align="center">
   
